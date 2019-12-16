@@ -1,0 +1,33 @@
+permalink: /:year:month:day/:title
+url: 127.0.0.1:4000 
+baseurl: /
+
+# variables
+name: Pnambic 
+description: are you paying attention
+google_verification: null
+
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
+
+
+# Social
+# if you don't have any of social below, comment the line.
+twitter:            pnambicmusic 
+facebook:           pnambicmusic
+soundcloud:         pnambic_music
+bandcamp:           pnambicmusic
