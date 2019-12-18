@@ -3,7 +3,8 @@ layout: me
 title: me
 ---
 
-Hamilton based pianist and producer.
+daphne never attended church.daphne never attended church.daphne never attended church.daphne never attended church...daphne never.daphnever daphne never attencded church.daphneneeverchurched.daphne never attended church. 
+
 
 Minimum requirements
 # 8MB RAM
