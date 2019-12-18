@@ -1,11 +1,10 @@
 news:
   name: news
 
-tag2:
-  name: tag2
+gear:
+  name: gear
 
-tag3:
-  name: tag3
+shows:
+  name: shows
 
-tag4:
-  name: tag4
+
