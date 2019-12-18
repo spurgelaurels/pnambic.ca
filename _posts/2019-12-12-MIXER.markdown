@@ -2,7 +2,8 @@
 layout: default 
 title: "New Mixer"
 categories: [news]
-tags: [news, gear]
+tags: 
+ - gear
 ---
 
 Soundcraft Spirit Studio 32. Nice. 
